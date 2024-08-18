@@ -26,7 +26,7 @@ Behavioural Stimulation report (on running stimulation):
 
 Synthesized Design device (on run synthesis):
 
-![Screenshot 2024-08-18 194136](https://github.com/user-attachments/assets/df8290fa-3d14-4ab9-996b-332b7afb25de)
+![Screenshot 2024-08-18 195616](https://github.com/user-attachments/assets/483ab9a0-b614-485f-9c89-a297c967c805)
 
 Schematic design gate (on Running synthesis):
 

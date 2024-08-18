@@ -2,13 +2,13 @@ Day 4
 
 Designing an 4 bit fuller adder in vivado
 
-Stimulation source code:
-
-![Screenshot 2024-08-18 193942](https://github.com/user-attachments/assets/9234373a-0a8e-42e2-ab94-0ff366a547cf)
-
 Design source code of adder:
 
 ![Screenshot 2024-08-18 193951](https://github.com/user-attachments/assets/e0b6a35e-27a1-4518-828b-0f7511c959d5)
+
+Stimulation source code:
+
+![Screenshot 2024-08-18 193942](https://github.com/user-attachments/assets/9234373a-0a8e-42e2-ab94-0ff366a547cf)
 
 Sketch design (on RTL analysis):
 

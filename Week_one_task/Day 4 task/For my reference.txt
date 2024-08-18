@@ -1,0 +1,24 @@
+4 bit full adder
+
+Steps :
+
++ Create a design source file, name it, assign ports for input and outputs. Here I had two bus inputs of 4 bits each, along with a clock. (Clock is optional)
++ Navigate into your design file, now to the right most of pane, select an option called IP Catalog.
++ Since I am doing an adder,type and search "adder" in the search bar.
++ Select "Adder/Subtractor", under the basic division, you can customize your core for specific application, I gave unsigned for both operands of my adders in the input type.
++ Also give input width as 4 for both, change mode to add.
++ Switch to control division, select "C_out", unselect other options, again these maybe customized upon your designs.
++ Rename it, click generate.
++ Navigate to IPsources tab near Hierarchy, click instantiation template, then double click "your_file_name.veo"
++ Copy the entire code from .veo file to your design
++ Save it, click elaborated design to view blocks.
++ Click on the '+',to view the abstracted design of the core.
+
+
+For test bench 
+
++ Under Sources tab, click '+' to add a new source, click "Add/Create simulation sources", then click "Create file", give it a name, ok and then finish.
++ Under Simulation sources your empty testbench file will be present, open it and code the testbench, if you dont know how to code, I've attached a testbench file above. After coding, save it then proceed.
++ Click "run simulation" and you can view the output waveform, verify it with all your constaints.
++ Click 'run synthesis', once synthesized, click 'open synthesized design' to view your synthesized design.
+That's it

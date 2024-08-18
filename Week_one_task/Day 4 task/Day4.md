@@ -30,6 +30,6 @@ Synthesized Design device (on run synthesis):
 
 Schematic design gate (on Running synthesis):
 
-![Screenshot 2024-08-18 194136](https://github.com/user-attachments/assets/db9cd05d-304e-41a0-804a-c53eefb2be2c)
+![Screenshot 2024-08-18 195712](https://github.com/user-attachments/assets/e0552707-7dc3-41c0-b273-ed12aeb67f60)
 
 ![Screenshot 2024-08-18 195827](https://github.com/user-attachments/assets/853384a6-2694-4ced-a20e-b03a0a9e9888)

@@ -1,3 +1,5 @@
+Alwaysblock2
+
 module top_module(
     input clk,
     input a,

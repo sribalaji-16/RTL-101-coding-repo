@@ -29,3 +29,11 @@ D latch
 DFF
 
 ![alt text](image-5.png)
+
+DFF 
+
+![alt text](image-6.png)
+
+DFF + Gate
+
+![alt text](image-7.png)

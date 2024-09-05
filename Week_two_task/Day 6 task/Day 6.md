@@ -21,3 +21,11 @@ Dff with asynchronus reset
 Dff with byte enable
 
 ![alt text](image-3.png)
+
+D latch
+
+![alt text](image-4.png)
+
+DFF
+
+![alt text](image-5.png)

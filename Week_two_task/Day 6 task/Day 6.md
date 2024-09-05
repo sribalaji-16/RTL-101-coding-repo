@@ -37,3 +37,7 @@ DFF
 DFF + Gate
 
 ![alt text](image-7.png)
+
+Mux dff
+
+![alt text](image-8.png)

@@ -41,3 +41,11 @@ DFF + Gate
 Mux dff
 
 ![alt text](image-8.png)
+
+Mux and dff
+
+![alt text](image-9.png)
+
+Dff and gates
+
+![alt text](image-10.png)

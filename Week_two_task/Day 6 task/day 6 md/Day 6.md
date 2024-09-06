@@ -57,3 +57,15 @@ create circuit from tt
 detect edge
 
 ![alt text](image-12.png)
+
+Detect both edge
+
+![alt text](image-13.png)
+
+Edge capture register
+
+![alt text](image-14.png)
+
+Dual edge triggered ff
+
+![alt text](image-15.png)

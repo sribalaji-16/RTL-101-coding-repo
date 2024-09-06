@@ -49,3 +49,11 @@ Mux and dff
 Dff and gates
 
 ![alt text](image-10.png)
+
+create circuit from tt
+
+![alt text](image-11.png)
+
+detect edge
+
+![alt text](image-12.png)

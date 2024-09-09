@@ -6,4 +6,5 @@ Operation Type: Latches are used in asynchronous circuits, where the output can 
 Speed and Power: Latches generally operate faster and consume less power compared to flip-flops.
 Usage: Latches are often used for temporary data storage and simple memory elements.
 
+Flip Flop
 

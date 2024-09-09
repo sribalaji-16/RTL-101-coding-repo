@@ -8,3 +8,8 @@ Usage: Latches are often used for temporary data storage and simple memory eleme
 
 Flip Flop
 
+Triggering Mechanism: Flip-flops are edge-triggered, meaning their output changes only at specific moments, such as the rising or falling edge of a clock signal.
+Control Signal: Flip-flops require a clock signal to control when the output can change.
+Operation Type: Flip-flops are used in synchronous circuits, where changes occur in sync with the clock signal.
+Speed and Power: Flip-flops are more robust and stable, making them suitable for more complex operations, though they generally consume more power and operate slower than latches.
+Usage: Flip-flops are used in more complex memory elements, registers, and sequential circuits.

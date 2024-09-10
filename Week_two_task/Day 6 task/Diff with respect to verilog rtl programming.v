@@ -43,6 +43,7 @@ endmodule
 Control Signal: 
 Flip-flops require a clock signal.
 
-Operation Type: Flip-flops are used in synchronous circuits.
+Operation Type: 
+Flip-flops are used in synchronous circuits.
 Speed and Power: Flip-flops are more robust and stable but generally consume more power and operate slower.
 Usage: Used in complex memory elements, registers, and sequential circuits.

@@ -22,7 +22,8 @@ Latches are used in asynchronous circuits.
 Speed and Power: 
 Latches are faster and consume less power.
 
-Usage: Commonly used for temporary data storage.
+Usage: 
+Commonly used for temporary data storage.
 
     
 Flip-Flops in Verilog RTL Programming:

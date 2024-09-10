@@ -1,6 +1,6 @@
 Latches in Verilog RTL Programming
     
-Triggering Mechanism: Latches are level-sensitive. They change their output based on the input as long as the enable signal is active.
+Triggering Mechanism: Latches are level-sensitive. They change their output based on the input as long as the enable signal is active
 
 module latch (
     input wire D,

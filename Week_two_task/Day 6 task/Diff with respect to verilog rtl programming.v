@@ -16,7 +16,7 @@ endmodule
 Control Signal: 
 Latches use an enable signal instead of a clock signal.
 
-Operation Type: 
+Operation Type:  
 Latches are used in asynchronous circuits. 
 
 Speed and Power: 

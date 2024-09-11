@@ -12,7 +12,7 @@ always @ (D or enable) begin
         Q <= D;
 end 
 endmodule
-
+ 
 Control Signal: 
 Latches use an enable signal instead of a clock signal.  
 

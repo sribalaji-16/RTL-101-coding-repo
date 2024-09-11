@@ -5,7 +5,7 @@ Triggering Mechanism: Latches are level-sensitive. They change their output base
 module latch (
     input wire D,
     input wire enable,
-    output reg Q 
+    output reg Q  
 );
 always @ (D or enable) begin
     if (enable)

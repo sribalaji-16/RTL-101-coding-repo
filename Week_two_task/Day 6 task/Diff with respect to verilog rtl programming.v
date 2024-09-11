@@ -10,7 +10,7 @@ module latch (
 always @ (D or enable) begin
     if (enable)
         Q <= D;
-end
+end 
 endmodule
 
 Control Signal: 

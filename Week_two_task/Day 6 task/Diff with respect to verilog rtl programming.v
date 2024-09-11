@@ -32,7 +32,7 @@ Triggering Mechanism: Flip-flops are edge-sensitive. They change their output on
     
 module flip_flop (
     input wire D,
-    input wire clk,
+    input wire clk, 
     output reg Q
 );
 always @ (posedge clk) begin

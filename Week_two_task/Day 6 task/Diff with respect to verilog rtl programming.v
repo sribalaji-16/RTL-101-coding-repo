@@ -27,7 +27,7 @@ Commonly used for temporary data storage.
  
     
 Flip-Flops in Verilog RTL Programming: 
-    
+     
 Triggering Mechanism: Flip-flops are edge-sensitive. They change their output only on the rising or falling edge of a clock signal
     
 module flip_flop (

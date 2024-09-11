@@ -20,7 +20,7 @@ Operation Type:
 Latches are used in asynchronous circuits. 
 
 Speed and Power: 
-Latches are faster and consume less power.
+Latches are faster and consume less power. 
 
 Usage: 
 Commonly used for temporary data storage.

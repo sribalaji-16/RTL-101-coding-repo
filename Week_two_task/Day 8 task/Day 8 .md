@@ -36,3 +36,12 @@ The source code are attached with this directory
 a.HW interfaces
 
 ![image](https://github.com/user-attachments/assets/4f88a6ba-4df9-4c84-bce8-f0a89c2581ec)
+
+b.SW I/O information
+
+![image](https://github.com/user-attachments/assets/bf7bee3d-211b-4599-bae5-97931e6ea875)
+
+c.M.AXIBurst information, Bind op report, Bind storage report
+
+![image](https://github.com/user-attachments/assets/869c9423-4e71-4d3e-8cdf-246bc145dca4)
+

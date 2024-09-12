@@ -45,5 +45,16 @@ c.M.AXIBurst information, Bind op report, Bind storage report
 
 ![image](https://github.com/user-attachments/assets/869c9423-4e71-4d3e-8cdf-246bc145dca4)
 
+-->Export RTL
+
+Exporting it as RTL file for using it in vivado
+
+1.Selecting file for export 
+
+![image](https://github.com/user-attachments/assets/d462087e-5b04-44f9-80be-20acceccdc55)
+
+2.Reading console
+
+![image](https://github.com/user-attachments/assets/53f0ac81-7250-4e6f-a31c-1e3d93670d5b)
 
 

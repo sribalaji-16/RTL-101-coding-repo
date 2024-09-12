@@ -18,3 +18,11 @@ The source code are attached with this directory
 
 ![image](https://github.com/user-attachments/assets/6e4ae732-6934-411c-9b6d-2c4881b40d71)
 
+-->Running C sysnthesis
+
+1.Start running sysnthesis
+![image](https://github.com/user-attachments/assets/bf79dbae-5623-44b6-b07e-da8d4fdca238)
+
+2.HLS console after running c synthesis
+![Screenshot 2024-09-13 001054](https://github.com/user-attachments/assets/5186817b-863f-4239-a2f7-46389933ad49)
+

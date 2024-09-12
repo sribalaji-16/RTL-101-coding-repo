@@ -3,9 +3,10 @@ The Last Task .......
 Function accelerator in vitis hls tool
 
 Here i am working on with a board of Zynq ultrascale+ MPSoCs(xczu7ev-ffvf1517-1-i)
+
 ![image](https://github.com/user-attachments/assets/966185a2-7693-43aa-969d-0295b5ffd729)
 
-Source file (it is not much important to look at this source file images becuz)
+-->Source file (it is not much important to look at this source file images becuz)
 The source code are attached with this directory 
 
 ![image](https://github.com/user-attachments/assets/813bd1e1-6f52-4f62-95a2-0584a166cfd5)
@@ -21,8 +22,17 @@ The source code are attached with this directory
 -->Running C sysnthesis
 
 1.Start running sysnthesis
+
 ![image](https://github.com/user-attachments/assets/bf79dbae-5623-44b6-b07e-da8d4fdca238)
 
 2.HLS console after running c synthesis
+
 ![Screenshot 2024-09-13 001054](https://github.com/user-attachments/assets/5186817b-863f-4239-a2f7-46389933ad49)
 
+3.Synthesis summary report
+
+![image](https://github.com/user-attachments/assets/ee95c89f-be60-44be-9469-5a8890c81dd1)
+
+a.HW interfaces
+
+![image](https://github.com/user-attachments/assets/4f88a6ba-4df9-4c84-bce8-f0a89c2581ec)

@@ -1,4 +1,4 @@
-Compiling and stimulation status of Day 2 task
+# Compiling and stimulation status of Day 2 task
 
 Step one
 

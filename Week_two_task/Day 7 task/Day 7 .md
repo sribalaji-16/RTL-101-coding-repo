@@ -1,4 +1,4 @@
-Positive edge detector
+# Positive edge detector
 
 ![Screenshot 2024-09-07 223955](https://github.com/user-attachments/assets/cf70f7b4-db8b-4698-a7b1-474da3ec7052)
 

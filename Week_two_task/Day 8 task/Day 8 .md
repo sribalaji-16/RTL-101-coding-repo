@@ -6,7 +6,8 @@ Here i am working on with a board of Zynq ultrascale+ MPSoCs(xczu7ev-ffvf1517-1-
 
 ![image](https://github.com/user-attachments/assets/966185a2-7693-43aa-969d-0295b5ffd729) 
 
-# Source file (it is not much important to look at this source file images becuz)
+# Source file 
+It is not much important to look at this source file images becuz
 The source code are attached with this directory  
 
 ![image](https://github.com/user-attachments/assets/813bd1e1-6f52-4f62-95a2-0584a166cfd5)
@@ -19,7 +20,7 @@ The source code are attached with this directory
 
 ![image](https://github.com/user-attachments/assets/6e4ae732-6934-411c-9b6d-2c4881b40d71)
 
--->Running C sysnthesis
+# Running C sysnthesis
 
 1.Start running sysnthesis 
 
@@ -45,7 +46,7 @@ c.M.AXIBurst information, Bind op report, Bind storage report
 
 ![image](https://github.com/user-attachments/assets/869c9423-4e71-4d3e-8cdf-246bc145dca4)
 
--->Export RTL
+# Export RTL
 
 Exporting it as RTL file for using it in vivado
 

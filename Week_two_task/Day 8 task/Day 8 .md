@@ -21,7 +21,7 @@ The source code are attached with this directory
 
 -->Running C sysnthesis
 
-1.Start running sysnthesis
+1.Start running sysnthesis 
 
 ![image](https://github.com/user-attachments/assets/bf79dbae-5623-44b6-b07e-da8d4fdca238)
 

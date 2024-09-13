@@ -1,6 +1,6 @@
 # Compiling and stimulation status of Day 2 task
 
-Step one
+# Step one
 
 ![Screenshot 2024-08-17 224105](https://github.com/user-attachments/assets/e8314bcd-fd91-4758-9c05-17079a47dd1b)
 

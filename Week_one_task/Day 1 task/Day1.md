@@ -14,7 +14,7 @@ New project was created to do Nor gate ,Nand gate, Inverter gate using vivado
 
 # Schematic design of logic gates
 
-![Screenshot 2024-08-16 223442](https://github.com/user-attachments/assets/b88ccf38-4e7b-467e-b0ca-b5b4e7aefd4c)
+![Screenshot 2024-08-16 223442](https://github.com/user-attachments/assets/b88ccf38-4e7b-467e-b0ca-b5b4e7aefd4c) 
 
 
 # Run simulation output:

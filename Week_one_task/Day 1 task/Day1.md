@@ -20,7 +20,7 @@ New project was created to do Nor gate ,Nand gate, Inverter gate using vivado
 # Run simulation output:
   The waveform output
 
-![Screenshot 2024-08-16 223059](https://github.com/user-attachments/assets/8f06d259-3bdf-4dd6-8c4e-196774323b86)
+![Screenshot 2024-08-16 223059](https://github.com/user-attachments/assets/8f06d259-3bdf-4dd6-8c4e-196774323b86) 
 
 
 # Synthesized design

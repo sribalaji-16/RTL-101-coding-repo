@@ -34,7 +34,7 @@ New project was created to do Nor gate ,Nand gate, Inverter gate using vivado
  
 
 # Utilization report
-
+ 
 ![Screenshot 2024-08-17 024922](https://github.com/user-attachments/assets/b9d3678e-db93-427c-86cd-a459888b79fd)
 
 

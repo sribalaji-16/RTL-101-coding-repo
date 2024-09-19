@@ -1,6 +1,6 @@
 # The Last Task .......
   
-# Function accelerator in vitis hls tool 
+# Function accelerator in vitis hls tool  
  
 Here i am working on with a board of Zynq ultrascale+ MPSoCs(xczu7ev-ffvf1517-1-i)
 

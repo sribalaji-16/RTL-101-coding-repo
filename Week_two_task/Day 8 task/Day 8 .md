@@ -33,7 +33,7 @@ The source code are attached with this directory
 3.Synthesis summary report
 
 ![image](https://github.com/user-attachments/assets/ee95c89f-be60-44be-9469-5a8890c81dd1)
-
+ 
 a.HW interfaces
 
 ![image](https://github.com/user-attachments/assets/4f88a6ba-4df9-4c84-bce8-f0a89c2581ec)

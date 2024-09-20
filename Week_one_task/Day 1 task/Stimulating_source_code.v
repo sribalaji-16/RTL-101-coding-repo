@@ -11,5 +11,5 @@ begin
     #10 a=1;b=1;  
     #10 $finish;
 end
- 
+  
 endmodule

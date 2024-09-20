@@ -1,7 +1,7 @@
 module stimulating(    );
 reg a,b;
 wire x,y,z;
-logic_gate_design uut(a,b,x,y,z);
+        logic_gate_design uut(a,b,x,y,z); 
 
 initial
 begin

@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 
 
 New project was created to do Nor gate ,Nand gate, Inverter gate using vivado 
 

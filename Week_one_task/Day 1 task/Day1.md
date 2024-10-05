@@ -6,7 +6,7 @@ New project was created to do Nor gate ,Nand gate, Inverter gate using vivado
 
 ![Screenshot 2024-08-16 223118](https://github.com/user-attachments/assets/342b25fe-ac8d-4ed5-b647-560ec0c80050)
 
- 
+  
 # Stimulating sources  
 
 ![Screenshot 2024-08-16 223108](https://github.com/user-attachments/assets/04d41146-f28a-4af0-87ef-63e28e810dbe)
